@@ -1,0 +1,7 @@
+{
+  "pets": [
+    { "id": 1, "name": "Whiskers", "type": "cat", "age": 2, "weight": 10, "gender": "female", "isAdopted": false },
+    { "id": 2, "name": "Rex", "type": "dog", "age": 3, "weight": 25, "gender": "male", "isAdopted": false },
+    { "id": 3, "name": "Pinky", "type": "micropig", "age": 1, "weight": 15, "gender": "female", "isAdopted": false }
+  ]
+}
